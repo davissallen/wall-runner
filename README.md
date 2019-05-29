@@ -21,3 +21,10 @@ I want to learn flutter, and I am fascinated by game design! I can't wait to get
 - test and play game with minimal art to evaluate gameplay
 - cycles of re-design and refactor
 - add art (8-bit?)
+
+## learning resources:
+- [udacity](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905)
+- [flutter docs](https://flutter.dev/docs)
+- [flame discord server](https://discordapp.com/channels/509714518008528896/549585812141113350)
+- [flame docs](https://flame-engine.org/docs)
+
