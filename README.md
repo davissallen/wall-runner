@@ -2,6 +2,8 @@
 My first game, built with flutter and the flame engine
 
 [![Flame](https://img.shields.io/badge/🔥flame-0.11.2-orange.svg)](https://pub.dev/packages/flame/versions/0.11.2) 
+![v0.0.1](https://img.shields.io/badge/v0.0.1-development-yellow.svg) 
+
 
 ## branching model
 Proceeding with this git branching model [(explanation here)](https://nvie.com/posts/a-successful-git-branching-model/):
